@@ -8,7 +8,9 @@ export var isDate = macroAlias(computed.isDate);
 export var isElement = macroAlias(computed.isElement);
 export var isEmpty = macroAlias(computed.isEmpty);
 export var isFunction = macroAlias(computed.isFunction);
+/* jshint ignore:start */
 export var isNaN = macroAlias(computed.isNaN);
+/* jshint ignore:end */
 export var isNative = macroAlias(computed.isNative);
 export var isNull = macroAlias(computed.isNull);
 export var isNumber = macroAlias(computed.isNumber);
