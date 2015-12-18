@@ -1,13 +1,16 @@
 # ember-lodash-computed-decorators
 
-#### decorators for lodash computed properties in `ember-lodash-computed`
+#### Decorators for lodash computed properties in [ember-lodash-computed](https://github.com/rjhilgefort/ember-lodash-computed). This project version should stay in sync with `ember-lodash-computed` so the interface is consistent and expected.
+
 
 ## Installation
 
 ```shell
 # ember-cli > 0.2.3
+ember install ember-lodash-computed
 ember install ember-lodash-computed-decorators
 # ember-cli <= 0.2.3
+ember install:addon ember-lodash-computed
 ember install:addon ember-lodash-computed-decorators
 ```
 
