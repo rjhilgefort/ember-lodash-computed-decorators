@@ -48,7 +48,6 @@
     "decorators"
   ],
   "dependencies": {
-    "babel-plugin-transform-decorators": "^6.6.5",
     "ember-cli-babel": "^5.1.6"
   },
   "ember-addon": {
