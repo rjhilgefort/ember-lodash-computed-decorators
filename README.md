@@ -1,4 +1,4 @@
-# ember-lodash-computed-decorators
+# ember-lodash-computed-decorators [![npm version](https://badge.fury.io/js/ember-lodash-computed-decorators.svg)](https://badge.fury.io/js/ember-lodash-computed-decorators) [![Build Status](https://travis-ci.org/rjhilgefort/ember-lodash-computed-decorators.svg?branch=master)](https://travis-ci.org/rjhilgefort/ember-lodash-computed-decorators) [![Ember Observer Score](https://emberobserver.com/badges/ember-lodash-computed-decorators.svg)](https://emberobserver.com/addons/ember-lodash-computed-decorators)
 
 #### Decorators for lodash computed properties in [ember-lodash-computed](https://github.com/rjhilgefort/ember-lodash-computed). This project version should stay in sync with `ember-lodash-computed` so the interface is consistent and expected.
 
